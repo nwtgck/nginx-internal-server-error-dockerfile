@@ -1,1 +1,1 @@
-# nginx-always-internal-server-error-dockerfile
+# nginx-internal-server-error-dockerfile
