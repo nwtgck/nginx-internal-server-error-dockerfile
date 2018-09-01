@@ -1,5 +1,5 @@
 # nginx-internal-server-error-dockerfile
-[![Docker Automated build](https://img.shields.io/docker/automated/nwtgck/nginx-internal-server-error.svg)](https://hub.docker.com/r/nwtgck/nginx-internal-server-error/)  
+[![Docker Automated build](https://img.shields.io/docker/automated/nwtgck/nginx-internal-server-error.svg)](https://hub.docker.com/r/nwtgck/nginx-internal-server-error/) [![](https://images.microbadger.com/badges/image/nwtgck/nginx-internal-server-error.svg)](https://microbadger.com/images/nwtgck/nginx-internal-server-error "Get your own image badge on microbadger.com")
 
 Nginx Docker image which always returns "500 Internal Server Error"
 
